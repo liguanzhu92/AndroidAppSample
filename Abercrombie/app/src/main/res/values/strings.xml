@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Abercrombie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sample_top_description">sample top description</string>
+    <string name="sample_home_title">sample home title</string>
+    <string name="sample_home_promo_message">sample home promo message</string>
+    <string name="sample_home_bottom_description">sample home bottom description</string>
+    <string name="cardview_home_content_title">cardview home content title</string>
+    <string name="sample_link"><u>Sample link</u></string>
+</resources>
